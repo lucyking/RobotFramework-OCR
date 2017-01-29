@@ -1,2 +1,2 @@
 # RobotFramework-OCR
-port Tessetact-OCR to RobotFramework's UI Automation.
+port Tessetact-OCR to RobotFramework for UI Automation.
